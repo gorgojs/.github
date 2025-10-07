@@ -1,2 +1,1 @@
-# .github
-gorgojs.com
+[gorgojs.com](https://gorgojs.com)
