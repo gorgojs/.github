@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gorgojs/.github/blob/main/static/logo-gorgo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/gorgojs/.github/blob/main/static/logo-gorgo-light.svg">
-      <img alt="Medusa logo" src="https://github.com/gorgojs/.github/blob/main/static/logo-gorgo-light.svg">
+      <img style="width: 55px; height: auto;" alt="Medusa logo" src="https://github.com/gorgojs/.github/blob/main/static/logo-gorgo-light.svg">
     </picture>
   </a>
 </p>
